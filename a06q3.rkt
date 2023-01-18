@@ -207,4 +207,4 @@
 (check-expect (player-winnings (list (list 'A 'A 'A))
                                (list (list 'A 'K))
                                (list 10)) -10)
-j
+
